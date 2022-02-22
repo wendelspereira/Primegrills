@@ -1,0 +1,102 @@
+.container {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    background: var(--secundary);
+    overflow-y: scroll;
+    overflow-x: hidden;
+
+    header {
+        height: 58px;
+    }
+
+    section {
+        height: calc(100vh - 116px);
+        max-width: 658px;
+        display: flex;
+        flex-direction: column;
+        background: var(--secundary);
+
+        .ConfirmMsg {
+            width: 90%;
+            height: 15rem;
+            margin: 5%;
+            padding: 1rem 2rem;
+            background: var(--white);
+            border-radius: 15px;
+            box-shadow: 0 5px 10px #e6e2e2;
+
+            .wrapper {
+                width: 100%;
+                display: flex;
+                flex-direction: column;
+
+                strong {
+                    flex: 1;
+                    font-size: 1.1rem;
+                    color: var(--green);
+                }
+
+                .content {
+                    display: flex;
+                    flex-direction: row;
+
+                    .presentation {
+                        width: 70%;
+                        height: 100%;
+                        padding: 1rem;
+                        font-family: "Rubik", sans-serif;
+                        color: var(--title);
+
+                        h2 {
+                            font-size: 1rem;
+                            font-weight: 600;
+                        }
+
+                        p {
+                            overflow: hidden;
+                            font-size: 0.85rem;
+                            text-overflow: ellipsis;
+                            display: -webkit-box;
+                            -webkit-line-clamp: 3;
+                            -webkit-box-orient: vertical;
+                            transform: translateY(10%);
+                            text-align: left;
+                        }
+                    }
+                }
+
+                .imgCircle {
+                    width: 6rem;
+                    height: 6rem;
+                    margin: 10px 0;
+                    background: var(--secundary);
+                    border-radius: 50%;
+                    align-items: center;
+                    text-align: center;
+
+                    img {
+                        transform: translateY(10%);
+                        width: auto;
+                        height: 85%;
+                    }
+                }
+            }
+        }
+
+        button {
+            width: 40%;
+            height: 3rem;
+            padding: 0 1rem;
+            font-size: 0.875rem;
+            color: var(--white);
+            text-align: center;
+            font-weight: 900;
+            background: var(--background);
+            border: none;
+            margin-left: 60%;
+            border-radius: 10px;
+        }
+    }
+}

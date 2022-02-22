@@ -1,0 +1,27 @@
+.container {
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    text-align: center;
+    background: var(--background);
+    border: none;
+    cursor: pointer;
+    height: inherit;
+    width: 100vw;
+    top: 0px;
+
+    div{
+        display: flex; 
+    }
+
+    img {
+        color: var(--white);
+        flex-wrap: wrap;
+    }
+
+    span {
+        color: var(--white);
+        flex-wrap: wrap;
+        font-family: 'Nunito', sans-serif;
+    }
+}

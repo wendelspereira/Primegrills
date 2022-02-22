@@ -1,0 +1,29 @@
+
+    //current buy 
+    const buy = [
+        {
+            product: {
+                category: 'category',
+                productId: 1
+            },
+            options: [
+                {
+                    name: "",
+                    subOptions: [
+                        { name: '', additionalPrice: 0, isAvailable: true },
+                    ]
+                },
+            ],
+            observations: "",
+            finalPrice: 0,
+            amount: 1,
+        }
+    ]
+
+    const delivery = {
+        name: "",
+        telephone: "",
+        paymentMethods: "",
+        deliveryWay: "",
+        address: "",
+    }

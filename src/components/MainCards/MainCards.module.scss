@@ -1,0 +1,25 @@
+.container {
+    max-width: 658px;
+    margin: 0 auto;
+    padding: 15px 40px;
+    display: flex;
+    flex-wrap: wrap;
+}
+
+@media (min-width: 768px) {
+    .container {
+        padding: 15px 80px;
+    }
+}
+
+@media (min-width: 400px) and (max-width: 760px) {
+    .container {
+        padding: 15px 60px;
+    }
+}
+
+@media (max-width: 300px) {
+    .container {
+        padding: 15px 20px;
+    }
+}

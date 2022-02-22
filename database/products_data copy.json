@@ -1,0 +1,911 @@
+[
+    {
+        "category": "AÇAÍ",
+        "name": "AÇAÍ EM CAMADAS",
+        "cardDescription": "",
+        "description": "",
+        "isFixedPrice": true,
+        "price": 9.9,
+        "isAvailable": true,
+        "imgSrc": "/products/acai_em_camadas.png",
+        "optionsComponent": [
+            {
+                "type": "checkbox",
+                "name": "Condimentos",
+                "options": [
+                    {
+                        "name": "Granola",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    },
+                    {
+                        "name": "Lascas de chocolate",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    },
+                    {
+                        "name": "Amendoim",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    },
+                    {
+                        "name": "M&M",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    },
+                    {
+                        "name": "Leite em pó",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    },
+                    {
+                        "name": "Farinha láctea",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    },
+                    {
+                        "name": "Jujuba",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    },
+                    {
+                        "name": "Marshmallow",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    },
+                    {
+                        "name": "Cereja",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    },
+                    {
+                        "name": "Tubitos",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    },
+                    {
+                        "name": "Brigadeiro",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    },
+                    {
+                        "name": "Bis",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    },
+                    {
+                        "name": "Sonho de valça",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    },
+                    {
+                        "name": "Oreo",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    }
+                ],
+                "freeAmount": 5,
+                "allowedAmount": 5
+            },
+            {
+                "type": "checkbox",
+                "name": "Calda",
+                "options": [
+                    {
+                        "name": "Morango",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    },
+                    {
+                        "name": "Chocolare",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    },
+                    {
+                        "name": "Leite condensado",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    },
+                    {
+                        "name": "Maracujá",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    }
+                ],
+                "freeAmount": 1,
+                "allowedAmount": 1
+            },
+            {
+                "type": "checkbox",
+                "name": "Frutas",
+                "options": [
+                    {
+                        "name": "Morango",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    },
+                    {
+                        "name": "Banana",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    },
+                    {
+                        "name": "KIWI",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    }
+                ],
+                "freeAmount": 2,
+                "allowedAmount": 2
+            }
+        ]
+    },
+    {
+        "category": "AÇAÍ",
+        "name": "AÇAÍ BATIDO",
+        "cardDescription": "",
+        "description": "",
+        "isFixedPrice": true,
+        "price": 9.9,
+        "isAvailable": true,
+        "imgSrc": "/products/acai_batido.png",
+        "optionsComponent": [
+            {
+                "type": "checkbox",
+                "name": "Condimentos",
+                "options": [
+                    {
+                        "name": "Granola",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    },
+                    {
+                        "name": "Lascas de chocolate",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    },
+                    {
+                        "name": "Amendoim",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    },
+                    {
+                        "name": "M&M",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    },
+                    {
+                        "name": "Leite em pó",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    },
+                    {
+                        "name": "Farinha láctea",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    },
+                    {
+                        "name": "Jujuba",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    },
+                    {
+                        "name": "Marshmallow",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    },
+                    {
+                        "name": "Cereja",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    },
+                    {
+                        "name": "Tubitos",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    },
+                    {
+                        "name": "Brigadeiro",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    },
+                    {
+                        "name": "Bis",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    },
+                    {
+                        "name": "Sonho de valça",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    },
+                    {
+                        "name": "Oreo",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    }
+                ],
+                "freeAmount": 2,
+                "allowedAmount": 2
+            },
+            {
+                "type": "checkbox",
+                "name": "Calda",
+                "options": [
+                    {
+                        "name": "Morango",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    },
+                    {
+                        "name": "Chocolare",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    },
+                    {
+                        "name": "Leite condensado",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    },
+                    {
+                        "name": "Maracujá",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    }
+                ],
+                "freeAmount": 1,
+                "allowedAmount": 1
+            },
+            {
+                "type": "checkbox",
+                "name": "Frutas",
+                "options": [
+                    {
+                        "name": "Morango",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    },
+                    {
+                        "name": "Banana",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    },
+                    {
+                        "name": "KIWI",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    }
+                ],
+                "freeAmount": 2,
+                "allowedAmount": 2
+            }
+        ]
+    },
+    {
+        "category": "AÇAÍ",
+        "name": "AÇAÍ MESCLADO",
+        "cardDescription": "",
+        "description": "",
+        "isFixedPrice": true,
+        "price": 9.9,
+        "isAvailable": true,
+        "imgSrc": "/products/acai_mesclado.png",
+        "optionsComponent": [
+            {
+                "type": "checkbox",
+                "name": "Calda",
+                "options": [
+                    {
+                        "name": "Morango",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    },
+                    {
+                        "name": "Chocolare",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    },
+                    {
+                        "name": "Leite condensado",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    },
+                    {
+                        "name": "Maracujá",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    }
+                ],
+                "freeAmount": 1,
+                "allowedAmount": 1
+            },
+            {
+                "type": "checkbox",
+                "name": "Frutas",
+                "options": [
+                    {
+                        "name": "Morango",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    },
+                    {
+                        "name": "Banana",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    },
+                    {
+                        "name": "KIWI",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    }
+                ],
+                "freeAmount": 3,
+                "allowedAmount": 3
+            }
+        ]
+    },
+    {
+        "category": "AÇAÍ",
+        "name": "AÇAÍ PURO",
+        "cardDescription": "",
+        "description": "",
+        "isFixedPrice": true,
+        "price": 11.9,
+        "isAvailable": true,
+        "imgSrc": "/products/acai_puro.png",
+        "optionsComponent": [
+            {
+                "type": "checkbox",
+                "name": "Condimentos",
+                "options": [
+                    {
+                        "name": "Granola",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    },
+                    {
+                        "name": "Lascas de chocolate",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    },
+                    {
+                        "name": "Amendoim",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    },
+                    {
+                        "name": "M&M",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    },
+                    {
+                        "name": "Leite em pó",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    },
+                    {
+                        "name": "Farinha láctea",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    },
+                    {
+                        "name": "Jujuba",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    },
+                    {
+                        "name": "Marshmallow",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    },
+                    {
+                        "name": "Cereja",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    },
+                    {
+                        "name": "Tubitos",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    },
+                    {
+                        "name": "Brigadeiro",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    },
+                    {
+                        "name": "Bis",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    },
+                    {
+                        "name": "Sonho de valça",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    },
+                    {
+                        "name": "Oreo",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    }
+                ],
+                "freeAmount": 5,
+                "allowedAmount": 5
+            },
+            {
+                "type": "checkbox",
+                "name": "Calda",
+                "options": [
+                    {
+                        "name": "Morango",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    },
+                    {
+                        "name": "Chocolare",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    },
+                    {
+                        "name": "Leite condensado",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    },
+                    {
+                        "name": "Maracujá",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    }
+                ],
+                "freeAmount": 1,
+                "allowedAmount": 1
+            },
+            {
+                "type": "checkbox",
+                "name": "Frutas",
+                "options": [
+                    {
+                        "name": "Morango",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    },
+                    {
+                        "name": "Banana",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    },
+                    {
+                        "name": "KIWI",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    }
+                ],
+                "freeAmount": 3,
+                "allowedAmount": 3
+            }
+        ]
+    },
+    {
+        "category": "MILKSHAKE",
+        "name": "MILKSHAKE SIMPLES",
+        "cardDescription": "",
+        "description": "",
+        "isFixedPrice": true,
+        "price": 11.9,
+        "isAvailable": true,
+        "imgSrc": "/products/milkshake.png",
+        "optionsComponent": [
+            {
+                "type": "checkbox",
+                "name": "Condimentos",
+                "options": [
+                    {
+                        "name": "Granola",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    },
+                    {
+                        "name": "Lascas de chocolate",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    },
+                    {
+                        "name": "Amendoim",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    },
+                    {
+                        "name": "M&M",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    },
+                    {
+                        "name": "Leite em pó",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    },
+                    {
+                        "name": "Farinha láctea",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    },
+                    {
+                        "name": "Jujuba",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    },
+                    {
+                        "name": "Marshmallow",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    },
+                    {
+                        "name": "Cereja",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    },
+                    {
+                        "name": "Tubitos",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    },
+                    {
+                        "name": "Brigadeiro",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    },
+                    {
+                        "name": "Bis",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    },
+                    {
+                        "name": "Sonho de valça",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    },
+                    {
+                        "name": "Oreo",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    }
+                ],
+                "freeAmount": 5,
+                "allowedAmount": 5
+            },
+            {
+                "type": "checkbox",
+                "name": "Calda",
+                "options": [
+                    {
+                        "name": "Morango",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    },
+                    {
+                        "name": "Chocolare",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    },
+                    {
+                        "name": "Leite condensado",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    },
+                    {
+                        "name": "Maracujá",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    }
+                ],
+                "freeAmount": 1,
+                "allowedAmount": 1
+            },
+            {
+                "type": "checkbox",
+                "name": "Frutas",
+                "options": [
+                    {
+                        "name": "Morango",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    },
+                    {
+                        "name": "Banana",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    },
+                    {
+                        "name": "KIWI",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    }
+                ],
+                "freeAmount": 3,
+                "allowedAmount": 3
+            }
+        ]
+    },
+    {
+        "category": "MILKSHAKE",
+        "name": "MILKSHAKE CLÁSSICO",
+        "cardDescription": "",
+        "description": "",
+        "isFixedPrice": true,
+        "price": 11.9,
+        "isAvailable": true,
+        "imgSrc": "/products/milkshake.png",
+        "optionsComponent": [
+            {
+                "type": "checkbox",
+                "name": "Condimentos",
+                "options": [
+                    {
+                        "name": "Granola",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    },
+                    {
+                        "name": "Lascas de chocolate",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    },
+                    {
+                        "name": "Amendoim",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    },
+                    {
+                        "name": "M&M",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    },
+                    {
+                        "name": "Leite em pó",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    },
+                    {
+                        "name": "Farinha láctea",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    },
+                    {
+                        "name": "Jujuba",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    },
+                    {
+                        "name": "Marshmallow",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    },
+                    {
+                        "name": "Cereja",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    },
+                    {
+                        "name": "Tubitos",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    },
+                    {
+                        "name": "Brigadeiro",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    },
+                    {
+                        "name": "Bis",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    },
+                    {
+                        "name": "Sonho de valça",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    },
+                    {
+                        "name": "Oreo",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    }
+                ],
+                "freeAmount": 5,
+                "allowedAmount": 5
+            },
+            {
+                "type": "checkbox",
+                "name": "Calda",
+                "options": [
+                    {
+                        "name": "Morango",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    },
+                    {
+                        "name": "Chocolare",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    },
+                    {
+                        "name": "Leite condensado",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    },
+                    {
+                        "name": "Maracujá",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    }
+                ],
+                "freeAmount": 1,
+                "allowedAmount": 1
+            },
+            {
+                "type": "checkbox",
+                "name": "Frutas",
+                "options": [
+                    {
+                        "name": "Morango",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    },
+                    {
+                        "name": "Banana",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    },
+                    {
+                        "name": "KIWI",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    }
+                ],
+                "freeAmount": 3,
+                "allowedAmount": 3
+            }
+        ]
+    },
+    {
+        "category": "SORVETE",
+        "name": "SORVETE",
+        "cardDescription": "",
+        "description": "",
+        "isFixedPrice": true,
+        "price": 11.9,
+        "isAvailable": true,
+        "imgSrc": "/products/milkshake.png",
+        "optionsComponent": [
+            {
+                "type": "checkbox",
+                "name": "Condimentos",
+                "options": [
+                    {
+                        "name": "Granola",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    },
+                    {
+                        "name": "Lascas de chocolate",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    },
+                    {
+                        "name": "Amendoim",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    },
+                    {
+                        "name": "M&M",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    },
+                    {
+                        "name": "Leite em pó",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    },
+                    {
+                        "name": "Farinha láctea",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    },
+                    {
+                        "name": "Jujuba",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    },
+                    {
+                        "name": "Marshmallow",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    },
+                    {
+                        "name": "Cereja",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    },
+                    {
+                        "name": "Tubitos",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    },
+                    {
+                        "name": "Brigadeiro",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    },
+                    {
+                        "name": "Bis",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    },
+                    {
+                        "name": "Sonho de valça",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    },
+                    {
+                        "name": "Oreo",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    }
+                ],
+                "freeAmount": 5,
+                "allowedAmount": 5
+            },
+            {
+                "type": "checkbox",
+                "name": "Calda",
+                "options": [
+                    {
+                        "name": "Morango",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    },
+                    {
+                        "name": "Chocolare",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    },
+                    {
+                        "name": "Leite condensado",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    },
+                    {
+                        "name": "Maracujá",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    }
+                ],
+                "freeAmount": 1,
+                "allowedAmount": 1
+            },
+            {
+                "type": "checkbox",
+                "name": "Frutas",
+                "options": [
+                    {
+                        "name": "Morango",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    },
+                    {
+                        "name": "Banana",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    },
+                    {
+                        "name": "KIWI",
+                        "additionalPrice": 0,
+                        "isAvailable": true
+                    }
+                ],
+                "freeAmount": 3,
+                "allowedAmount": 3
+            }
+        ]
+    }
+]

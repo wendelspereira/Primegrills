@@ -1,0 +1,57 @@
+.menu {
+    height: 3rem;
+    width: 100%;
+    max-width: 800px;
+    margin: auto;
+    display: flex;
+    text-align: center;
+    align-items: center;
+    z-index: 1;
+    position: relative;
+    bottom: 0;
+
+    div {
+        flex-direction: row;
+        button {
+            font-size: 0;
+            align-items: center;
+            background: none;
+            border: none;
+
+            img {
+                width: auto;
+                height: auto;
+            }
+        }
+    }
+}
+
+.title {
+    height: 30px;
+    width: 48.26%;
+    border-radius: 10px;
+    background: var(--secundary);
+
+    p {
+        display: inline-block;
+        font-family: 'Montserrat', sans-serif;
+        font-size: 15px;
+        font-weight:bold;
+        text-align: center;
+        text-transform: uppercase;
+        transform: translateY(30%);
+        color: var(--title);
+        transition: .5s;
+    }
+}
+
+.button {
+    font-size: 0;
+    width: 25.86%;
+}
+
+@media(max-width: 280px){
+    .title p {
+        font-size: 13px;
+    }
+}

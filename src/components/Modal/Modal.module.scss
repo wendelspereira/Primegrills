@@ -1,0 +1,25 @@
+.modalBackdrop {
+  position: fixed;
+  height: 100vh;
+  width: 100vw;
+  top: 0;
+  left: 0;
+  background: rgba(0, 0, 0, 0.6);
+  z-index: 2;
+}
+
+.modalContentWrapper {
+  position: fixed;
+  height: fit-content;
+  max-width: 400px;
+  max-width: 427px;
+  background: white;
+  border-radius: 10px;
+  margin: auto;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  // overflow-y: scroll;
+  z-index: 2;
+}

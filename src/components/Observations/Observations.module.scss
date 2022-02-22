@@ -1,0 +1,22 @@
+.container {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    width: 95%;
+    height: 6.75rem;
+    margin-top: 1rem;
+    
+    textarea {
+        border-radius: 10px;
+        height: 100%;
+        width: 100%;
+        text-align: initial;
+        border: 1px solid var(--gray);
+        padding: 0.7rem;
+        color: var(--title);
+        &:focus {
+            outline: none;
+            border-color: var(--background);
+        }
+    }
+}

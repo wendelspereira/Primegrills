@@ -1,0 +1,22 @@
+[
+    {
+        "id": 1,
+        "imgSrc": "/banners/bannerexemple.svg",
+        "link": "#"
+    },
+    {
+        "id": 2,
+        "imgSrc": "/banners/banner2.svg",
+        "link": "#"
+    },
+    {
+        "id": 3,
+        "imgSrc": "/banners/bannerexemple.svg",
+        "link": "#"
+    },
+    {
+        "id": 4,
+        "imgSrc": "/banners/banner2.svg",
+        "link": "#"
+    }
+]

@@ -1,0 +1,133 @@
+.deliveryMethod {
+    display       : flex;
+    flex-direction: column;
+    margin-bottom : 15px;
+
+    label {
+        font-family  : 'Nunito', sans-serif;
+        font-size    : 16px;
+        color        : var(--title);
+        margin-bottom: 8px;
+    }
+
+    .buttons {
+        div {
+            &:first-child {
+                border-right : none;
+                border-radius: 10px 0 0 10px;
+            }
+
+            &:last-child {
+                border-left  : none;
+                border-radius: 0 10px 10px 0;
+            }
+        }
+    }
+
+    .radio {
+        width   : 50%;
+        height  : 35px;
+        border  : 1px solid #FF383B;
+        float   : left;
+        position: relative;
+
+        label {
+            display        : flex;
+            position       : absolute;
+            width          : 100%;
+            height         : 100%;
+            justify-content: center;
+            align-items    : center;
+            white-space    : nowrap;
+            font-family    : 'Nunito', sans-serif;
+            font-size      : 14px;
+            color          : #FF383B;
+            cursor         : pointer;
+
+            span {
+                z-index: 1;
+            }
+
+            input[type=radio] {
+                all     : unset;
+                position: absolute;
+                width   : 100%;
+                height  : 100%;
+                top     : 0;
+                left    : 0;
+
+                &:checked {
+                    background-color: #FF383B;
+                    border-radius   : 10px;
+                }
+            }
+        }
+    }
+
+    .cellphone {
+        height    : 2.5rem;
+        margin-top: 0.9rem;
+
+        input {
+            width        : 45%;
+            height       : 100%;
+            margin-top   : 0.4rem;
+            padding      : 0 10px;
+            font-size    : 1rem;
+            color        : var(--title);
+            top          : 0;
+            left         : 0;
+            border       : 1px solid #FF383B;
+            border-radius: 10px;
+        }
+    }
+
+    .warning {
+        flex       : 1;
+        align-self : flex-end;
+        max-width  : 60%;
+        margin-top : 2.2rem;
+        text-align : right;
+        font-family: 'Montserrat', sans-serif;
+        font-size  : 8px;
+    }
+
+    .radio label input[type=radio]:checked+span {
+        color: var(--white);
+    }
+
+    .confirmButton {
+        display    : flex;
+        align-items: center;
+        text-align : center;
+        height     : 2.5rem;
+
+        button {
+            height       : 100%;
+            background   : var(--background);
+            color        : white;
+            margin       : 0.4rem 0 0 .5rem;
+            padding      : 0 10px;
+            border       : none;
+            border-radius: 10px;
+        }
+    }
+
+    .checkingContainer {
+        height    : 2.5rem;
+        margin-top: 0.9rem;
+
+        input {
+            width        : 30%;
+            height       : 100%;
+            margin-top   : 0.4rem;
+            padding      : 0 10px;
+            font-size    : 1rem;
+            color        : var(--title);
+            top          : 0;
+            left         : 0;
+            border       : 1px solid #FF383B;
+            border-radius: 10px;
+        }
+    }
+}
